@@ -12,6 +12,11 @@ Hey, I'm Nili!<br>CS undergrad @ IIIT Kottayam<br><br>Focus: Databases, backend 
 ![](https://nirzak-streak-stats.vercel.app/?user=NILITHAY&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NILITHAY&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NILITHAY&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -19,6 +24,3 @@ Hey, I'm Nili!<br>CS undergrad @ IIIT Kottayam<br><br>Focus: Databases, backend 
 [![](https://visitcount.itsvg.in/api?id=NILITHAY&icon=2&color=3)](https://visitcount.itsvg.in)
 
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
