@@ -13,7 +13,7 @@ Hey, I'm Nili!<br>CS undergrad @ IIIT Kottayam<br><br>Focus: Databases, backend 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NILITHAY&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<div align="center">
+<div align="left">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
