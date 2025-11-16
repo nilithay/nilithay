@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Nili!<br>CS undergrad @ IIIT Kottayam<br><br>Focus: Databases, backend development and data modeling<br><br>I enjoy experimenting with the latest technologies, and creating solutions that maximizes efficiency. I tackle problems directly - solving them right away or learning and collaborating to get there.<br>
+Hey, I'm Nili!<br>CS undergrad @ IIIT Kottayam<br><br>Current focus: Databases, backend development and data modeling<br><br>I enjoy experimenting with the latest technologies, and creating solutions that maximizes efficiency. I tackle problems directly - solving them right away or learning and collaborating to get there.<br>
 
 
 ## 🌐 Socials:
